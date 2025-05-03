@@ -32,3 +32,5 @@ hs_err_pid*
 
 # Internal code
 .anthropic
+
+node_modules
